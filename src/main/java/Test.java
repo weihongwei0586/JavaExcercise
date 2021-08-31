@@ -19,6 +19,8 @@ public class Test {
         System.out.println(Integer.valueOf(s1).compareTo(Integer.valueOf(s2)));
         AtomicInteger atomicInteger = new AtomicInteger();
         System.out.println(atomicInteger.get());
+        System.out.println("Hello,Github");
+        System.out.println("hell");
     }
 
     }
