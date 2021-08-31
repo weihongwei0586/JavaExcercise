@@ -22,6 +22,7 @@ public class Test {
         System.out.println("Hello,Github");
         System.out.println("hell");
         System.out.println("Hello,hotfix");
+        System.out.println("Hello,Master");
     }
 
     }
