@@ -6,5 +6,8 @@ public class StringDemo {
         String b = "2bc";
 
         String c = a+b;
+        Object o = null;
+        // 抛出【空指针】异常
+        System.out.println(o.toString());
     }
 }
