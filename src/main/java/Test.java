@@ -25,6 +25,7 @@ public class Test {
         System.out.println("Hello,Master");
         System.out.println("Hello,hotfix2222");
         System.out.println("Push Test");
+         System.out.println("Pull Test");
     }
 
     }
