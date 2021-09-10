@@ -12,6 +12,7 @@ import 创建型设计模式.工厂模式.简单工厂模式.pizzas.Pizza;
  * 简单工厂类[也叫静态工厂模式]
  * 将各种类的创建聚合在一个工厂里
  * 在使用时，只需要获得这个工厂就行
+ * 封装实例化对象这个行为
  */
 public class SimpleFactory {
     public static Pizza createPizza(String name){
